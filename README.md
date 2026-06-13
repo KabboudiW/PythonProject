@@ -1,0 +1,1 @@
+Vorhersage von Day-Ahead-Strompreisen und Ableitung von Sell/Wait-Entscheidungen für erneuerbare Energie.
